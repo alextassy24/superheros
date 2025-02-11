@@ -10,8 +10,8 @@ This project consists of two parts:
 ## Project Setup
 
 ### Hono API (Server)
-- **Location:** `/server` (or your designated folder)
-- **Requirements:** Bun (or Node.js with adjustments)  
+- **Location:** `/server`
+- **Requirements:** Bun
 - **Installation & Run:**
   1. Install dependencies:
      ```bash
