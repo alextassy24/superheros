@@ -10,13 +10,13 @@ This project consists of two parts:
 ## Project Setup
 
 ### React App (Frontend)
-- **Location:** `/frontend` (or your designated folder)
+- **Location:** `/frontend`
 - **Installation & Run:**
   1. Install dependencies:
      ```bash
      bun install
      ```
-  2. Start the dev server (assuming Vite is used):
+  2. Start the dev server:
      ```bash
      bun run dev
      ```
@@ -34,7 +34,7 @@ I value clear communication and open collaboration. I would work closely with te
 ## If I Had More Time
 
 *Eagerness to Learn:*  
-- **Persistent Storage:** Replace the in-memory database with a real database (e.g., SQLite, PostgreSQL) for data persistence.
+- **Persistent Storage:** Replace the in-memory database with a real database for data persistence.
 - **Testing:** Add unit and integration tests for both the API and frontend.
 - **Deployment:** Explore deployment options (e.g., serverless platforms) to make the app production-ready.
 - **UI/UX Enhancements:** Further polish the React app's user interface and add responsive design improvements.
